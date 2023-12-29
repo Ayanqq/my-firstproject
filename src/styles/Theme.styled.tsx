@@ -1,7 +1,7 @@
 export const theme = {
     colors: {
         primary: "#4E71FE",
-        outlined:"#cb0000"
+        outlined:"#7c4141"
     },
     margin: "20px"
 }
