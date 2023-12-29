@@ -30,6 +30,7 @@ export const Btn1 = styled.button<Btn1PropsType> `
     &:hover {
       background-color: ${props => props.color || "black"};
       color:white;
+      transition: 400ms;
     }
   `}
 
